@@ -10,8 +10,19 @@ A list of places where you can buy developer swag for your favorite libraries, f
 | Netlify Store           | [Netlify](https://www.netlify.com/)                                | https://swag.netlify.com/                 |
 | Vue Store               | [Vue](https://vuejs.org/)                                          | https://vue.threadless.com/               |
 
+# Unofficial Developer Swag Store List
+A list of places where you can buy developer swag, from thrid parties, for your favorite libraries, frameworks, platforms, tools, etc.
+
+
+| Name                    | Tool                                                               | Store Link                                |
+|-------------------------|--------------------------------------------------------------------|-------------------------------------------|
+| NGINX Store*            | NGINX                                                              | https://swag-nginx.com/                   |
+
+\**Possibly official, but not yet confirmed*
+
+
 
 ## Contributing
 To contribute, simply add your contibution to the README and submit a pull request. The maintainers of this repo will be automatically added to the pull request and notified for review.  
 
-*Note: Only stores with official swag will be accepted. (e.g. No third-party Redbubble accounts.)*
+***Note:** Only stores with confirmed swag should be added to the "Official Developer Swag Store List". (e.g. No third-party Redbubble accounts.)*
