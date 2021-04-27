@@ -1,4 +1,4 @@
-# Developer Offcial Swag Store List
+# Offcial Developer Swag Store List
 A list of places where you can buy developer swag for your favorite libraries, frameworks, platforms, tools, etc.
 
 
