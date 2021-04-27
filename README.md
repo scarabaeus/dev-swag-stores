@@ -8,7 +8,7 @@ A list of places where you can buy developer swag for your favorite libraries, f
 | Gatsby Store            | Gatsby                                                             | https://store.gatsbyjs.org/               |
 | GraphQL Store           | GraphQL                                                            | https://store.graphql.org/                |
 | Netlify Store           | Netlify        	                                                   | https://swag.netlify.com/                 |
-| Vue Store.              | Vue                                                                | https://vue.threadless.com/               |
+| Vue Store               | Vue                                                                | https://vue.threadless.com/               |
 
 
 ## Contributing
