@@ -11,5 +11,6 @@ A list of places where you can buy developer swag for your favorite libraries, f
 
 
 ## Contributing
-To contribute, simply add your contibution to the README and submit a pull request. The maintainers of this repo will be automatically added to the pull request and notified for review.
-*Note: Only stores with official swag will be accepted. (e.g. No third-party Redbubble accounts.*
+To contribute, simply add your contibution to the README and submit a pull request. The maintainers of this repo will be automatically added to the pull request and notified for review.  
+
+*Note: Only stores with official swag will be accepted. (e.g. No third-party Redbubble accounts.)*
