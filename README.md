@@ -2,7 +2,7 @@
 A list of places where you can buy developer swag for your favorite libraries, frameworks, platforms, tools, etc.
 
 
-| Name                    | Tool                                                               | Link                                      |
+| Name                    | Tool                                                               | Store Link                                |
 |-------------------------|--------------------------------------------------------------------|-------------------------------------------|
 | DevSwag Store           | jQuery, Ember, Dart, Backbone, Rust, SASS, Ruby, Grunt, etc.       | https://devswag.com/                      |
 | Gatsby Store            | [Gatsby](https://www.gatsbyjs.com/)                                | https://store.gatsbyjs.org/               |
