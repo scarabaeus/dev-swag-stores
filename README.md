@@ -2,13 +2,13 @@
 A list of places where you can buy developer swag for your favorite libraries, frameworks, platforms, tools, etc.
 
 
-| Name                    | Available Swag                                                     | Link                                      |
+| Name                    | Tool                                                               | Link                                      |
 |-------------------------|--------------------------------------------------------------------|-------------------------------------------|
 | DevSwag Store           | jQuery, Ember, Dart, Backbone, Rust, SASS, Ruby, Grunt, etc.       | https://devswag.com/                      |
-| Gatsby Store            | Gatsby                                                             | https://store.gatsbyjs.org/               |
-| GraphQL Store           | GraphQL                                                            | https://store.graphql.org/                |
-| Netlify Store           | Netlify        	                                                   | https://swag.netlify.com/                 |
-| Vue Store               | Vue                                                                | https://vue.threadless.com/               |
+| Gatsby Store            | [Gatsby](https://www.gatsbyjs.com/)                                | https://store.gatsbyjs.org/               |
+| GraphQL Store           | [GraphQL](https://graphql.org/)                                    | https://store.graphql.org/                |
+| Netlify Store           | [Netlify](https://www.netlify.com/)                                | https://swag.netlify.com/                 |
+| Vue Store               | [Vue](https://vuejs.org/)                                          | https://vue.threadless.com/               |
 
 
 ## Contributing
